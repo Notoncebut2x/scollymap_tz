@@ -1,6 +1,6 @@
 var config = {
     style: 'mapbox://styles/rorypnealon/cljn5bmtw00ly01p18e2jfw03',
-    accessToken: MB_KEY,
+    accessToken: 'pk.eyJ1Ijoicm9yeXBuZWFsb24iLCJhIjoiY2xqbXd1b20wMTFmZjNxbXVpNDBycHZheCJ9.HXMynbhf1yv4AAEmbkWohQ',
     showMarkers: false,
     markerColor: '#3FB1CE',
     //projection: 'equirectangular',
