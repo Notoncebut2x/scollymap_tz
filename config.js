@@ -491,34 +491,6 @@ var config = {
             ]
         },
         {
-            id: 'survey-routes-dodoma',
-            alignment: 'left',
-            hidden: false,
-            title: 'Survey Routes: Dodoma',
-            description: 'Routes that the teams took to find fields for surveying',
-            location: {
-                center:[35.5, -6],
-                zoom: 7.8,
-                pitch: 0,
-                bearing: 0,
-            },
-            mapAnimation: 'flyTo',
-            rotateAnimation: false,
-            callback: '',
-            onChapterEnter: [
-                {
-                    layer: 'arusha-routes',
-                    opacity: .85
-                }
-            ],
-            onChapterExit: [
-                {
-                    layer: 'arusha-routes',
-                    opacity: 0
-                }
-            ]
-        },
-        {
             id: 'crops-Dodoma',
             alignment: 'left',
             hidden: false,
