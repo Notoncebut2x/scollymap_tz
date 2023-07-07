@@ -354,7 +354,7 @@ var config = {
             id: 'survey-wards-arusha',
             alignment: 'left',
             hidden: false,
-            title: 'Survey Wards: Arusha',
+            title: 'Arusha Survey Wards',
             description: 'Twelve wards were surveyed in Arusha.',
             location: {
                 center:[36, -3],
